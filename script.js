@@ -13,8 +13,7 @@ let isSunk = false;
 
 while (isSunk == false) {
   guess = prompt('Gotów, cel, pal! (podaj liczbę z zakresu od 0-6):');
-
-  if (guesses < 0 || guesses > 6) {
+  if (guess < 0 || guess > 6) {
     alert('Proszę podać prawidłowy numer komórki!');
   } else {
     guesses = guesses + 1;
