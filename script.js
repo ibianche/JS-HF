@@ -1,6 +1,9 @@
-let location1 = 3;
-let location2 = 4;
-let location3 = 5;
+let randomLoc = Math.floor(Math.random() * 5); //randomowa liczba od 0 do 4 mathfloor do zaokraglenia w dol
+
+
+let location1 = randomLoc;
+let location2 = location1 + 1;
+let location3 = location2 + 1;
 
 
 let guess;
