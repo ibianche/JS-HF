@@ -12,3 +12,13 @@ const view = {
     cell.setAttribute('class', 'miss');
   }
 };
+
+
+view.displayMiss('00');
+view.displayHit('34');
+view.displayMiss('55');
+view.displayHit('12');
+view.displayMiss('25');
+view.displayHit('26');
+
+view.displayMessage('Halo czy cos dziala');
