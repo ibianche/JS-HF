@@ -15,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gra w okręty/battleship2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="-448">
               <caret line="33" column="72" lean-forward="true" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
             </state>
           </provider>
@@ -24,10 +24,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gra w okręty/battleship2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="587">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="332">
+              <caret line="201" column="3" selection-start-line="201" selection-start-column="3" selection-end-line="201" selection-end-column="3" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#621#2785#0" />
+                <element signature="e#2415#2814#0" />
+                <element signature="e#2836#3171#0" />
+                <marker date="1657733916154" expanded="true" signature="2184:2399" ph="..." />
               </folding>
             </state>
           </provider>
@@ -135,12 +138,12 @@
       <option name="presentableId" value="Default" />
       <updated>1655219803210</updated>
       <workItem from="1655219807226" duration="8171000" />
-      <workItem from="1656936761127" duration="18531000" />
+      <workItem from="1656936761127" duration="27943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26702000" />
+    <option name="totallyTimeSpent" value="36114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
@@ -254,17 +257,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gra w okręty/battleship2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="-448">
           <caret line="33" column="72" lean-forward="true" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gra w okręty/battleship2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="332">
+          <caret line="201" column="3" selection-start-line="201" selection-start-column="3" selection-end-line="201" selection-end-column="3" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#621#2785#0" />
+            <element signature="e#2415#2814#0" />
+            <element signature="e#2836#3171#0" />
+            <marker date="1657733916154" expanded="true" signature="2184:2399" ph="..." />
           </folding>
         </state>
       </provider>
