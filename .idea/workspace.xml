@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d42294c1-263b-432f-8e30-7e7fe82b76b0" name="Default Changelist" comment="" />
+    <list default="true" id="d42294c1-263b-432f-8e30-7e7fe82b76b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Programowanie asynchroniczne R10/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/Programowanie asynchroniczne R10/image.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Programowanie asynchroniczne R10/image.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="452">
+              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -24,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,6 +55,7 @@
         <option value="$PROJECT_DIR$/Gra w okręty/battleship2.js" />
         <option value="$PROJECT_DIR$/Programowanie asynchroniczne R10/event.js" />
         <option value="$PROJECT_DIR$/Programowanie asynchroniczne R10/event.html" />
+        <option value="$PROJECT_DIR$/Programowanie asynchroniczne R10/test.html" />
         <option value="$PROJECT_DIR$/Programowanie asynchroniczne R10/image.html" />
       </list>
     </option>
@@ -124,12 +127,12 @@
       <option name="presentableId" value="Default" />
       <updated>1655219803210</updated>
       <workItem from="1655219807226" duration="8171000" />
-      <workItem from="1656936761127" duration="32004000" />
+      <workItem from="1656936761127" duration="33165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40175000" />
+    <option name="totallyTimeSpent" value="41336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
@@ -266,10 +269,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie asynchroniczne R10/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Programowanie asynchroniczne R10/image.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="452">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
         </state>
       </provider>
     </entry>
