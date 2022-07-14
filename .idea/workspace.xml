@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d42294c1-263b-432f-8e30-7e7fe82b76b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Gra w okręty/battleship2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Gra w okręty/battleship2.js" afterDir="false" />
-    </list>
+    <list default="true" id="d42294c1-263b-432f-8e30-7e7fe82b76b0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,26 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gra w okręty/battleship2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-448">
-              <caret line="33" column="72" lean-forward="true" selection-start-line="33" selection-start-column="72" selection-end-line="33" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gra w okręty/battleship2.js">
+        <entry file="file://$PROJECT_DIR$/Programowanie asynchroniczne R10/image.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="201" column="3" selection-start-line="201" selection-start-column="3" selection-end-line="201" selection-end-column="3" />
-              <folding>
-                <element signature="e#621#2785#0" />
-                <element signature="e#2415#2814#0" />
-                <element signature="e#2836#3171#0" />
-                <marker date="1657733916154" expanded="true" signature="2184:2399" ph="..." />
-              </folding>
+            <state relative-caret-position="329">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -68,6 +51,9 @@
         <option value="$PROJECT_DIR$/battleship2.html" />
         <option value="$PROJECT_DIR$/Gra w okręty/battleship2.html" />
         <option value="$PROJECT_DIR$/Gra w okręty/battleship2.js" />
+        <option value="$PROJECT_DIR$/Programowanie asynchroniczne R10/event.js" />
+        <option value="$PROJECT_DIR$/Programowanie asynchroniczne R10/event.html" />
+        <option value="$PROJECT_DIR$/Programowanie asynchroniczne R10/image.html" />
       </list>
     </option>
   </component>
@@ -95,7 +81,7 @@
             <path>
               <item name="HF-BOOK" type="b2602c69:ProjectViewProjectNode" />
               <item name="HF-BOOK" type="462c0819:PsiDirectoryNode" />
-              <item name="Gra w okręty" type="462c0819:PsiDirectoryNode" />
+              <item name="Programowanie asynchroniczne R10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,18 +124,18 @@
       <option name="presentableId" value="Default" />
       <updated>1655219803210</updated>
       <workItem from="1655219807226" duration="8171000" />
-      <workItem from="1656936761127" duration="27943000" />
+      <workItem from="1656936761127" duration="32004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36114000" />
+    <option name="totallyTimeSpent" value="40175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -196,13 +182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bubbles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -264,14 +243,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gra w okręty/battleship2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
+        <state relative-caret-position="1599">
           <caret line="201" column="3" selection-start-line="201" selection-start-column="3" selection-end-line="201" selection-end-column="3" />
           <folding>
             <element signature="e#621#2785#0" />
-            <element signature="e#2415#2814#0" />
-            <element signature="e#2836#3171#0" />
             <marker date="1657733916154" expanded="true" signature="2184:2399" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubbles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie asynchroniczne R10/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programowanie asynchroniczne R10/image.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
